@@ -25,8 +25,7 @@
 </div>
 
 ## ERPNext
-
-100% Open-Source ERP system to help you run your business.
+ERP system to help you run your business.
 
 ### Motivation
 

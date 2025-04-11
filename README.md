@@ -1,8 +1,8 @@
 <div align="center">
-    <a href="https://frappe.io/erpnext">
+
 	<img src="./erpnext/public/images/v16/erpnext.svg" alt="ERPNext Logo" height="80px" width="80xp"/>
     </a>
-    <h2>ERPNext</h2>
+    <h2>elixir erp</h2>
     <p align="center">
         <p>Powerful, Intuitive and Open-Source ERP</p>
     </p>

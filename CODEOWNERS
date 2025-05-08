@@ -1,22 +1,22 @@
 
 # the repo. Unless a later match takes precedence,
 
-erpnext/accounts/               @ruthra-kumar
-erpnext/assets/                 @khushi8112
-erpnext/regional                @ruthra-kumar
-erpnext/selling                 @ruthra-kumar
-erpnext/support/                @ruthra-kumar
+erpnext/accounts/               @utkarsh-singh-1729
+erpnext/assets/                 @utkarsh-singh-1729
+erpnext/regional                @utkarsh-singh-1729
+erpnext/selling                 @utkarsh-singh-1729
+erpnext/support/                @utkarsh-singh-1729
 pos*                            
 
-erpnext/buying/                 @rohitwaghchaure
-erpnext/maintenance/            @rohitwaghchaure
-erpnext/manufacturing/          @rohitwaghchaure
-erpnext/quality_management/     @rohitwaghchaure
-erpnext/stock/                  @rohitwaghchaure
-erpnext/subcontracting          @rohitwaghchaure
+erpnext/buying/                 @utkarsh-singh-1729
+erpnext/maintenance/            @utkarsh-singh-1729
+erpnext/manufacturing/          @utkarsh-singh-1729
+erpnext/quality_management/     @utkarsh-singh-1729
+erpnext/stock/                  @utkarsh-singh-1729
+erpnext/subcontracting          @utkarsh-singh-1729
 
-erpnext/controllers/            @ruthra-kumar @rohitwaghchaure
-erpnext/patches/                @ruthra-kumar
+erpnext/controllers/            @utkarsh-singh-1729 @utkarsh-singh-1729
+erpnext/patches/                @utkarsh-singh-1729
 
-.github/                        @ruthra-kumar
-pyproject.toml                  @akhilnarang
+.github/                        @utkarsh-singh-1729
+pyproject.toml                  @utkarsh-singh-1729
